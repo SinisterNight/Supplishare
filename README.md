@@ -14,7 +14,8 @@ listing page with view of when the user is logged in vs not logged in using MSAL
 Sorting(pre-css)
 ![sorted_showingsort](https://github.com/SinisterNight/Supplishare/assets/114369787/784ac468-442d-4e41-bc2b-92c14d095282)
 
-![sorting_unfinished](https://github.com/SinisterNight/Supplishare/assets/114369787/1adf53ed-e1d6-480e-9d34-feb4ab38c79b)
+![realpresorting](https://github.com/SinisterNight/Supplishare/assets/114369787/39efd02f-17d2-4d4d-8aad-2565ac4ac4fe)
+
 
 listing shows one image but when clicked on all uploaded images on listing page itself
 
