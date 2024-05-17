@@ -23,3 +23,6 @@ listing shows one image but when clicked on all uploaded images on listing page 
 ![oneatroot](https://github.com/SinisterNight/Supplishare/assets/114369787/b5869990-1f8e-4391-b9a9-5c319971cf53)
 
 ![twoimageslisting](https://github.com/SinisterNight/Supplishare/assets/114369787/aec30a17-ed9c-4517-b46f-aca36d716e6d)
+
+Senior Day Poster (Shows working chat within screenshot on poster)
+[Senior_Day_Design_Poster.pdf](https://github.com/SinisterNight/Supplishare/files/15355847/Senior_Day_Design_Poster.pdf)
