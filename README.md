@@ -25,4 +25,5 @@ listing shows one image but when clicked on all uploaded images on listing page 
 ![twoimageslisting](https://github.com/SinisterNight/Supplishare/assets/114369787/aec30a17-ed9c-4517-b46f-aca36d716e6d)
 
 Senior Day Poster (Shows working chat within screenshot on poster)
-[Senior_Day_Design_Poster.pdf](https://github.com/SinisterNight/Supplishare/files/15355847/Senior_Day_Design_Poster.pdf)
+
+![senior_poster](https://github.com/SinisterNight/Supplishare/assets/114369787/d4a786e0-9bef-4e3e-9e3a-151a5f92d14b)
