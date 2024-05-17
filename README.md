@@ -8,7 +8,8 @@ Skeleton for imageUploading using react dropzone
 ![skeletonUploading](https://github.com/SinisterNight/Supplishare/assets/114369787/656c93e1-9d73-4af2-98b5-647228eff702)
 
 listing page with view of when the user is logged in vs not logged in using MSAL authenticated template allowing for chat.
-<img width="959" alt="authenticated" src="https://github.com/SinisterNight/Supplishare/assets/114369787/90554551-5d8d-4259-96b7-30e7cd0db487">
+<img width="959" alt="authenticated" src="https://github.com/SinisterNight/Supplishare/assets/114369787/abe63efd-f9f4-4740-bda0-c4664c69a2e6">
+
 <img width="959" alt="unauthenticated" src="https://github.com/SinisterNight/Supplishare/assets/114369787/291f828f-ecf9-48e4-a04f-922539afa584">
 
 Sorting(pre-css)
