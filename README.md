@@ -6,6 +6,14 @@ Content moderation, works exactly like home, however it allows for admins to del
 
 Skeleton for imageUploading using react dropzone
 ![skeletonUploading](https://github.com/SinisterNight/Supplishare/assets/114369787/656c93e1-9d73-4af2-98b5-647228eff702)
+respective appended form field
+
+![appendedforms](https://github.com/SinisterNight/Supplishare/assets/114369787/0f3551c1-ca4a-4edc-96db-376b82b8524e)
+
+with extended logging
+
+<img width="956" alt="extendeddata" src="https://github.com/SinisterNight/Supplishare/assets/114369787/40edf1e2-862a-4715-a1fe-3641b37093fc">
+
 
 listing page with view of when the user is logged in vs not logged in using MSAL authenticated template allowing for chat.
 <img width="959" alt="authenticated" src="https://github.com/SinisterNight/Supplishare/assets/114369787/abe63efd-f9f4-4740-bda0-c4664c69a2e6">
@@ -27,3 +35,16 @@ listing shows one image but when clicked on all uploaded images on listing page 
 Senior Day Poster (Shows working chat within screenshot on poster)
 
 ![senior_poster](https://github.com/SinisterNight/Supplishare/assets/114369787/d4a786e0-9bef-4e3e-9e3a-151a5f92d14b)
+
+database diagram
+
+![dbdiagram](https://github.com/SinisterNight/Supplishare/assets/114369787/9bf1e46c-f252-49de-a227-f578ae4ed650)
+
+with user data/item data populated (pre schema change)
+
+
+![trackingofitems](https://github.com/SinisterNight/Supplishare/assets/114369787/49afbbe4-a187-4f82-a838-d46ce529adbe)
+
+usermanagement/show user data panel(pre schema change)
+
+![usermanage](https://github.com/SinisterNight/Supplishare/assets/114369787/3379e970-76c9-421e-8119-e083261849dc)
